@@ -1,4 +1,4 @@
-/// <reference types="@types/google.maps" />
+// /// <reference types="@types/google.maps" />
 
 // Instructions to other class on how to be an argument to 'addMarker'
 export interface Mappeable {
